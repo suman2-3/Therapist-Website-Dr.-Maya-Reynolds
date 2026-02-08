@@ -103,7 +103,7 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Diagonal Background Image - extends to edge */}
+        {/* Diagonal Background Image */}
         <div 
           className="absolute top-0 right-0 w-[55%] 2xl:w-[50%] 3xl:w-[45%] h-full"
           style={{
